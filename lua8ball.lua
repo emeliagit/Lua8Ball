@@ -1,9 +1,14 @@
+-- Ask for user name and get user input for name
 print("Hello! Plese insert your name.")
 name = io.read()
+-- Ask for question, then get user input for question
 print("Hello, " .. name .. "! I'm an 8 ball, and it seems you have a question. Please, do go ahead and type it, then hit the 'enter' button.")
 question = io.read()
+-- Print name and question, telling the user that it's taking input account - though not really doing anything with it :P
 print(name .. " asks, ".. "'"  .. question .. "'")
+-- Generate random number, each corresponding to a question
 number = math.random(1, 20)
+-- Set answer to blank string to be appended to later. 
 answer = ""
 
 -- Affirmative Answers
