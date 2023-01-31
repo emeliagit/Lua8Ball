@@ -1,4 +1,2 @@
 # Lua8Ball
-CodeCademy has a thing where you make an 8ball in Lua. I chose to make it say you're gay. This is the sauce code. You're gay, to be sure, otherwise you'd liekly not be looking at this repository. 
-
-![image](https://user-images.githubusercontent.com/66752943/203104002-9c388500-9559-431c-893e-f4be9a157181.png)
+CodeCademy has a thing where you make an 8ball in Lua. I found that, after having experimented with it a little, I made a joke of it and left it. I've now come back to it and made it an actually functional program, so you can actually use it as though you'd use an 8-ball now. 
